@@ -1,0 +1,106 @@
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\ApplicationInsights.config
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\csc.exe
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\vbc.exe
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\VBCSCompiler.exe
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\WebApplication1.dll.config
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\WebApplication1.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\WebApplication1.pdb
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Antlr3.Runtime.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.Web.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Newtonsoft.Json.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.Helpers.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.Mvc.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.Optimization.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.Razor.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.Razor.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\WebGrease.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.Web.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.Helpers.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.Mvc.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.Optimization.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.Razor.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.Razor.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Antlr3.Runtime.pdb
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\bin\Newtonsoft.Json.xml
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\obj\Debug\WebApplication1.dll
+W:\BELGELER\Dersler\4.YARIYIL\WEB PROGRAMLAMAYA GİRİŞ\ProjeOdevi\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\WebApplication1.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\WebGrease.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Emre Berk\Desktop\ProjeOdevi\WebApplication1\obj\Debug\WebApplication1.pdb

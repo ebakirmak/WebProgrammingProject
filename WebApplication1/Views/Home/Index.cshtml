@@ -1,0 +1,237 @@
+﻿
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" type="text/css" href="~/css/joint.min.css" />
+ <!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top" >
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#page-top">ROGO</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#uml">SINIF EKLE VE UML OLUŞTUR</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#hakkımızda">Hakkımızda</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#iletisim">Bizimle İletişime Geçin</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+<!-- Header -->
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">                   
+                <div class="intro-text">
+                    <span class="name">ROGO YAZILIM</span>
+                    <hr class="star-light">
+                    <span class="skills">Web Uygulamaları - Android Uygulamaları</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Portfolio Grid Section -->
+<section id="uml">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>SINIF EKLE VE UML OLUŞTUR</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div id="umlGiris">
+                <div class="form-group">
+                    <label for="sel1">Sınıf Tipi Seçiniz:</label>
+                    <select class="form-control" id="txtSinifTip">
+                        <option>Abstract Class</option>
+                        <option>Interface Class</option>
+                        <option>Class</option>                     
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="usr">Sınıf Adı:</label>
+                    <input type="text" class="form-control" id="txtSinifAdi">
+                </div>
+                <div class="form-group">
+                    <label for="usr">Sınıf Nitelikleri</label>
+                    <input type="text" class="form-control" id="txtSinifNitelik">
+                </div>
+                <div class="form-group">
+                    <label for="usr">Sınıf Methodları</label>
+                    <input type="text" class="form-control" id="txtSinifMethod">
+                </div>
+                <div class="form-group">
+                    <label for="usr">Sınıf İliskileri</label>
+                    <input type="text" class="form-control" id="txtSinifIliski">
+                </div>
+                <div class="form-group">
+                    <button type="button" id="btnEkle" class="btn btn-default">Kaydet</button>
+                </div>
+                <div class="form-group">
+                    <button type="button" id="btnCiz" class="btn btn-default">Çiz</button>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div id="umlKutusu" class="col-sm-4 portfolio-item">
+              
+            </div>
+        </div>
+        <div class="row">
+            <div id="uml" class="col-sm-4 portfolio-item">
+               
+            </div>
+        </div>
+    </div>
+</section>
+<!-- About Section -->
+<section class="success" id="hakkımızda">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>PROJE HAKKINDA</h2>
+                <hr class="star-light">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-lg-offset-2">
+                <p>UML diagramı sınıflardan oluşmaktadır. İstenilen sınıflar oluşturularak bu sınıfların UML diagramı oluşturulmaktadır.</p>
+            </div>
+            <div class="col-lg-4">
+                <p>Projemizde HTML, CSS ve Javascript teknolojileri ile beraber HTML, CSS ve JS frameworkleri olan <a href="http://getbootstrap.com/">BootStrapp</a> ile UML diagramlarını kullandığımız <a href="http://www.jointjs.com/">jointjs</a> ve 
+                js frameworkü olan <a href="https://jquery.com/">jQuery</a>  kullanılmıştır.   </p>
+            </div>
+                
+        </div>
+    </div>
+</section>
+<!-- İletişim Bölümü -->
+<section id="iletisim">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Bizimle İletişime Geçin</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
+                <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+                <form name="sentMessage" id="contactForm" novalidate>
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>Name</label>
+                            <input type="text" class="form-control" placeholder="isim Giriniz." id="name" required data-validation-required-message="Lütfen İsminizi Giriniz.">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>Email Address</label>
+                            <input type="email" class="form-control" placeholder="Eposta Adresinizi Giriniz." id="email" required data-validation-required-message="Lütfen Eposta Adresinizi Giriniz.">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>Phone Number</label>
+                            <input type="tel" class="form-control" placeholder="Cep Telefon Numaranızı Giriniz." id="phone" required data-validation-required-message="Lütfen Cep Telefon Numaranızı Giriniz.">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>Message</label>
+                            <textarea rows="5" class="form-control" placeholder="İletinizi Giriniz." id="message" required data-validation-required-message="Lütfen İletinizi Giriniz."></textarea>
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <br>
+                    <div id="success"></div>
+                    <div class="row">
+                        <div class="form-group col-xs-12">
+                            <button type="submit" class="btn btn-success btn-lg">Gönder</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+<div class="scroll-top page-scroll visible-xs visible-sm">
+    <a class="btn btn-primary" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+    </a>
+</div>
+<!-- Portfolio Modals -->
+<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Project Title</h2>
+                        <hr class="star-primary">
+                        <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
+                        <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                        <ul class="list-inline item-details">
+                            <li>
+                                Client:
+                                <strong>
+                                    <a href="http://startbootstrap.com">Start Bootstrap</a>
+                                </strong>
+                            </li>
+                            <li>
+                                Date:
+                                <strong>
+                                    <a href="http://startbootstrap.com">April 2014</a>
+                                </strong>
+                            </li>
+                            <li>
+                                Service:
+                                <strong>
+                                    <a href="http://startbootstrap.com">Web Development</a>
+                                </strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
